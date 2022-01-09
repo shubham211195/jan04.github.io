@@ -1,0 +1,32 @@
+body{
+    background-color: #7CD1B8;
+    margin: 0;
+    padding:0;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+p,h1{
+    display: inline;
+    font-family: sans-serif;
+}
+#message, #msg{
+    color: red;
+}
+input{
+    margin: 5px;
+}
+div{
+    background-color: #FFF8F3;
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+     display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: center;
+      text-align: center;
+     
+}
